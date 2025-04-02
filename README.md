@@ -12,6 +12,7 @@ Insights and recommendations are based on the following key areas:
 •	Financial Analysis with respect to geography: An assessment of different financial metrics with respect to the different region.
 ### Data Structure Overview:
 The dataset consists of 6 tables namely geography, calendar, store, sales, channel and product.
+Screenshot 2025-03-31 201333.png
 ### Executive Summary:
 The company’s sales have dropped significantly in the year 2008 and 2009. Key performance indicators have shown YOY decrease in net profits %. This decrease is due to sudden change in the taste and preference of the consumers.  
 Below is the overview of the Power BI project.
