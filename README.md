@@ -32,7 +32,7 @@ Below is the overview of the Power BI project.
 •	Launching more products in Asia as it shows rising trends in technology.
 
 
-## Consumer Sales Analysis:
+## Project 2: Consumer Sales Analysis:
 
 ### Background and Overview:
 The dataset showcases the sales of products based on consumption pattern of the consumers. The data consists of office supplies, furniture and technology as the broad categories each of which are further divided into sub category. The project thoroughly analyzes and synthesizes this data order to uncover critical insights that will help boost sales number.
@@ -62,28 +62,3 @@ Below is the overview of the Power BI project.
 •	Spend on advertisements in Canada. While most of the sales is derived from USA, it is important to expand the business in Canada. The items from the technology category like mobiles, machines etc. have not been introduced, research should be conducted in order to understand the geographical setbacks. 
 •	Though sales number from USA is high, most of the sales is generated from the top 7 products. There is a greater need to increase the sales of the other product or replace them with newer and high selling alternative. 
 •	There should be an emphasis on advertising both in Canada and USA to increase the sales of the products.
-
-
-
-# Project 2: Consumer Sales Analysis
-
-## Background and Overview:
-The dataset showcases the sales of products based on consumption pattern of the consumers. The data consists of office supplies, furniture and technology as the broad categories each of which are further divided into sub category. The project thoroughly analyzes and synthesizes this data order to uncover critical insights that will help boost sales number.
-Key Insights:
-Top selling sub-category
- Profit distribution by time
-YOY Sales and Profit:
-Sales distribution:
-
-## Data Structure and Overview:
-The dataset consists of 2 tables namely calendar and sales data.
-
-## Executive Summary:
-The company’s sales have dropped in the year 2022 but have significantly risen in the year 2023 and 2024. Key performance indicators have shown YOY increase in sales and profit. Sales rose by 20% and profit by 15% in the previous year. This return can be marked due to introduction of new sub category in Canada YOY and also due to increase in advertisement.
-
-## Insights Deep Dive:
-
-## Recommendations:
-•	While most of the sales is derived from USA, it is important to expand the business in Canada. The items from the technology category like mobiles, machines etc. have not been introduced, research should be conducted in order to understand the geographical setbacks.
-•	Though sales number from USA is high, most of the sales is generated from the top 7 products.
-•	There should be an emphasis on advertising both in Canada and USA.
