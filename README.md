@@ -9,8 +9,11 @@ This data set displays sales of the company. The project thoroughly analyzes and
 Insights and recommendations are based on the following key areas:
 
 •	Net Profits Time Analysis: Evaluation of historical sales pattern based on month and year, focusing on PY Net Profits, Net Profits and YOY Net Profits in %.
+
 •	YOY Net Profit: Analyzing the increase or decrease in YOY Net Profits by Brand Name.
+
 •	Financial Analysis with respect to geography: An assessment of different financial metrics with respect to the different region.
+
 ### Data Structure Overview:
 The dataset consists of 6 tables namely geography, calendar, store, sales, channel and product.
 ![Image](https://github.com/user-attachments/assets/2fd0774a-d7f6-47c1-9bda-1afb5d36d098)
