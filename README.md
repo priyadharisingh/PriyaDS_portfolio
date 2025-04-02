@@ -12,10 +12,12 @@ Insights and recommendations are based on the following key areas:
 •	Financial Analysis with respect to geography: An assessment of different financial metrics with respect to the different region.
 ### Data Structure Overview:
 The dataset consists of 6 tables namely geography, calendar, store, sales, channel and product.
-Screenshot 2025-03-31 201333.png
+![Image](https://github.com/user-attachments/assets/2fd0774a-d7f6-47c1-9bda-1afb5d36d098)
 ### Executive Summary:
 The company’s sales have dropped significantly in the year 2008 and 2009. Key performance indicators have shown YOY decrease in net profits %. This decrease is due to sudden change in the taste and preference of the consumers.  
 Below is the overview of the Power BI project.
+![Image](https://github.com/user-attachments/assets/3d02ed85-a2b7-4247-bcd2-a0f37f6e8fdb)![image](https://github.com/user-attachments/assets/64c5466d-688a-4925-9e44-9e8ac72e425f)
+
 ### Insights Deep Dive:
 #### YOY Profit Trend:
 •	Profit of the product has continuously decreased with all the key metrics showcasing downward trend with YOY Net Profits touching all time low in May 2008 at -23.8% and then in November 2009 at -23.2%. This is due to running a lot of discounts.
@@ -51,6 +53,7 @@ The dataset consists of 2 tables namely calendar and sales data.
 ### Executive Summary:
 The company’s sales have dropped in the year 2022 but have significantly risen in the year 2023 and 2024. Key performance indicators have shown YOY increase in sales and profit. Sales rose by 20% and profit by 15% in the previous year. This return can be marked due to introduction of new sub category in Canada YOY and also due to increase in advertisement.
 Below is the overview of the Power BI project.
+![Image](https://github.com/user-attachments/assets/66c1c331-3150-4e70-8aa1-9686b4375aa2)![image](https://github.com/user-attachments/assets/ae749e9b-2c30-4866-b1e5-c954c3838d2d)
 
 ### Insights Deep Dive:
 #### Sales Trend:
