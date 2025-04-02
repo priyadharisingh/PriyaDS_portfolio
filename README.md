@@ -45,7 +45,7 @@ Sales distribution: Analyzing the distribution of sales based on segment and cat
 
 ### Data Structure and Overview:
 The dataset consists of 2 tables namely calendar and sales data.
-https://github.com/priyadharisingh/PriyaDS_portfolio/blob/a86996f3feac68510c4c47c376e6c2a4547e98bf/Screenshot%202025-03-31%20201333.png
+![image alt](https://github.com/priyadharisingh/PriyaDS_portfolio/blob/a86996f3feac68510c4c47c376e6c2a4547e98bf/Screenshot%202025-03-31%20201333.png)
 
 ### Executive Summary:
 The company’s sales have dropped in the year 2022 but have significantly risen in the year 2023 and 2024. Key performance indicators have shown YOY increase in sales and profit. Sales rose by 20% and profit by 15% in the previous year. This return can be marked due to introduction of new sub category in Canada YOY and also due to increase in advertisement.
