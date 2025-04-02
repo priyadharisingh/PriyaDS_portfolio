@@ -45,7 +45,6 @@ Sales distribution: Analyzing the distribution of sales based on segment and cat
 
 ### Data Structure and Overview:
 The dataset consists of 2 tables namely calendar and sales data.
-![image alt](https://github.com/priyadharisingh/PriyaDS_portfolio/blob/a86996f3feac68510c4c47c376e6c2a4547e98bf/Screenshot%202025-03-31%20201333.png)
 ![Image](https://github.com/user-attachments/assets/c4cd8649-8531-41aa-83fb-3baab85f87e5)
 
 
