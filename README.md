@@ -1,17 +1,9 @@
-<p style="font-size:24px;">
 <p align="center">
   Priya Dhari Singh
   </p>
   <p align="center">
   Data Analytics and Visualization project in Power BI
   </p>
-</p>
-
-<p style="font-size:24px;">Hello hi bye bye</p>
-# Hello hi bye bye  <!-- H1 (Largest) -->
-**Hello hi bye bye**
-## **Hello hi bye bye**
-<span style="font-size:30px;">Hello hi bye bye</span>
 
 
 ## Project 1: Contoso Sales Analysis
