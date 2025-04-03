@@ -1,11 +1,13 @@
+<p style="font-size:24px;">
 <p align="center">
   Priya Dhari Singh
   </p>
   <p align="center">
   Data Analytics and Visualization project in Power BI
   </p>
+</p>
 
-
+<p style="font-size:24px;">Hello hi bye bye</p>
 
 
 ## Project 1: Contoso Sales Analysis
