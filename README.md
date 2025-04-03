@@ -1,6 +1,6 @@
 <p align="center">
-  # PriyaDS_portfolio
-Data Analytics and Visualization project in Power BI
+  Priya Dhari Singh
+  Data Analytics and Visualization project in Power BI
 </p>
 
 
