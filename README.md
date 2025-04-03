@@ -1,5 +1,7 @@
-# PriyaDS_portfolio
+<p align="center">
+  # PriyaDS_portfolio
 Data Analytics and Visualization project in Power BI
+</p>
 
 
 ## Project 1: Contoso Sales Analysis
