@@ -1,6 +1,7 @@
 # PriyaDS_portfolio
 Data Analytics and Visualization project in Power BI
 
+
 ## Project 1: Contoso Sales Analysis
 
 ### Background and Overview:
@@ -15,12 +16,16 @@ Insights and recommendations are based on the following key areas:
 •	Financial Analysis with respect to geography: An assessment of different financial metrics with respect to the different region.
 
 ### Data Structure Overview:
-The dataset consists of 6 tables namely geography, calendar, store, sales, channel and product.
+The dataset consists of 6 tables namely Geography, Calendar, Store, Sales, Channel and Product.
+
 ![Image](https://github.com/user-attachments/assets/2fd0774a-d7f6-47c1-9bda-1afb5d36d098)
+
 ### Executive Summary:
 The company’s sales have dropped significantly in the year 2008 and 2009. Key performance indicators have shown YOY decrease in net profits %. This decrease is due to sudden change in the taste and preference of the consumers.  
 Below is the overview of the Power BI project.
+
 ![Image](https://github.com/user-attachments/assets/3d02ed85-a2b7-4247-bcd2-a0f37f6e8fdb)![image](https://github.com/user-attachments/assets/64c5466d-688a-4925-9e44-9e8ac72e425f)
+
 
 ### Insights Deep Dive:
 #### YOY Profit Trend:
@@ -37,7 +42,7 @@ Below is the overview of the Power BI project.
 
 •	The was an increase in demand of cell phones in the 2009. This is because of its affordability and rising trends.
 
-•	There was a steady decline in the purchase of music, movie and audio books. This is due to shift change in the taste and preference of the people to TV, Videos and Cell Phones.
+•	There was a steady decline in the purchase of music, movie and audio books. This is due to shift in the taste and preference of the people to TV, Videos and Cell Phones.
 
 ### Recommendations:
 •	The products should be advertised well at the time of the launch just like Adventure Works in 2009.
@@ -49,6 +54,7 @@ Below is the overview of the Power BI project.
 •	Launching more products in Asia as it shows rising trends in technology.
 
 
+
 ## Project 2: Consumer Sales Analysis:
 
 ### Background and Overview:
@@ -56,7 +62,7 @@ The dataset showcases the sales of products based on consumption pattern of the 
 #### Key Insights:
 •	Top selling sub-category:  Identifying the top selling sub category.
 
-•	Profit distribution by time: Evaluating the distribution of profit and sales by time series.
+•	Profit distribution by time: Evaluating the distribution of profit and sales by time series analysis.
 
 •	YOY Sales and Profit: Analyzing the increase or decrease in YOY Net Profits and Sales.
 
@@ -64,20 +70,24 @@ The dataset showcases the sales of products based on consumption pattern of the 
 
 
 ### Data Structure and Overview:
-The dataset consists of 2 tables namely calendar and sales data.
+The dataset consists of 2 tables namely Calendar and Sales data.
+
 ![Image](https://github.com/user-attachments/assets/c4cd8649-8531-41aa-83fb-3baab85f87e5)
 
 
 ### Executive Summary:
-The company’s sales have dropped in the year 2022 but have significantly risen in the year 2023 and 2024. Key performance indicators have shown YOY increase in sales and profit. Sales rose by 20% and profit by 15% in the previous year. This return can be marked due to introduction of new sub category in Canada YOY and also due to increase in advertisement.
+The company’s sales have dropped in the year 2022 but have significantly risen in the year 2023 and 2024. Key performance indicators have shown YOY increase in sales and profit. Sales rose by 20% and profit by 15% in the previous year. This return can be marked due to introduction of new sub category and also due to post-COVID economic recovery and increased consumer spending.
+
 Below is the overview of the Power BI project.
+
 ![Image](https://github.com/user-attachments/assets/66c1c331-3150-4e70-8aa1-9686b4375aa2)![image](https://github.com/user-attachments/assets/ae749e9b-2c30-4866-b1e5-c954c3838d2d)
+
 
 ### Insights Deep Dive:
 #### Sales Trend:
 •	The record breaking low YOY Sales was recorded in the year 2022 with 2.85% decrease in YOY Sales this was due to running large number of discounts throughout the year and recession in the economy.
 
-•	All time high sales were recorded in the year 2024 with total sales equals to $733.95K this was due
+•	All time high sales were recorded in the year 2024 with total sales equals to $733.95K this was due this is due to post-COVID economic recovery and increased consumer spending.
 
 •	Sales of office supplies was recorded low in the year 2024 this is due to cost cutting by companies and digitalization.
 
