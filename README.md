@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center",style="font-size:24px;">
   Priya Dhari Singh
   </p>
   <p align="center">
