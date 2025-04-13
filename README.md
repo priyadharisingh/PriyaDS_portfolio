@@ -28,7 +28,7 @@ The dataset consists of 6 tables namely Geography, Calendar, Store, Sales, Chann
 The company’s sales have dropped significantly in the year 2008 and 2009. Key performance indicators have shown YOY decrease in net profits %. This decrease is due to sudden change in the taste and preference of the consumers.  
 Below is the overview of the Power BI project.
 
-![Image](https://github.com/user-attachments/assets/3d02ed85-a2b7-4247-bcd2-a0f37f6e8fdb)![image](https://github.com/user-attachments/assets/64c5466d-688a-4925-9e44-9e8ac72e425f)
+![Image](https://github.com/user-attachments/assets/579376cd-869a-40aa-a8a2-cba50907e2f3)
 
 
 ### Insights Deep Dive:
